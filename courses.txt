@@ -1,2 +1,4 @@
 SDEV 1022 - HTML/CSS Basics
 SDEV 1090 - Version Control
+SDEV 1032 - Programming Basics
+SDEV 1041 - SQL fundamentals
